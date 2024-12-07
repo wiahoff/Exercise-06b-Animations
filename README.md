@@ -9,6 +9,9 @@
 - gun which can interact with enemies
 - npc which can be talked with
 - large enviorment which can be explored
+- score of kills is tracked
+- particles added
+- many textures used
 
 # References
 
